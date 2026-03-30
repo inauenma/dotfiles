@@ -1,0 +1,5 @@
+[user]
+	name = Martin Inauen
+	email = inauen@mesh.ch
+[pull]
+	rebase = false

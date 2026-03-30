@@ -1,0 +1,1 @@
+alias ros='source /opt/ros/jazzy/setup.bash && source $(pwd)/install/setup.bash'
