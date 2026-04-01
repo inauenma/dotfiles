@@ -31,6 +31,9 @@ macos-icon = xray
 
 mouse-hide-while-typing = true
 
-
+keybind = ctrl+shift+h=goto_split:left
+keybind = ctrl+shift+l=goto_split:right
+keybind = ctrl+shift+k=goto_split:up
+keybind = ctrl+shift+j=goto_split:down
 
 quit-after-last-window-closed = true
