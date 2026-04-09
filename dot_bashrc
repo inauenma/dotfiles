@@ -131,6 +131,7 @@ fi
 
 #color username
 PS1='\[\e[32m\]\u@\h\[\e[0m\] \w \$ '
+export PATH="$HOME/bin:$PATH"
 
 [ -f ~/.fzf.bash ] && source ~/.fzf.bash
 [ -f /usr/share/doc/fzf/examples/key-bindings.bash ] && source /usr/share/doc/fzf/examples/key-bindings.bash
